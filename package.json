@@ -9,7 +9,7 @@
     "release": "standard-version",
     "test": "jest --coverage"
   },
-  "repository": "https://github.com/birdwingo/react-native-spinning-numbers.git",
+  "repository": "https://github.com/hassan1903/react-native-spinning-numbers.git",
   "keywords": [
     "react-native",
     "android",
@@ -28,9 +28,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/birdwingo/react-native-spinning-numbers/issues"
+    "url": "https://github.com/hassan1903/react-native-spinning-numbers/issues"
   },
-  "homepage": "https://github.com/birdwingo/react-native-spinning-numbers#readme",
+  "homepage": "https://github.com/hassan1903/react-native-spinning-numbers#readme",
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-native": ">=0.70.0",
